@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="s17d2:war">
+    <output-path>$PROJECT_DIR$/s17d2/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>s17d2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="s17d2-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="s17d2:war exploded" />
+    </root>
+  </artifact>
+</component>
